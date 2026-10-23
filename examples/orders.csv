@@ -1,0 +1,13 @@
+order_id,customer_id,sku,quantity,region
+ORD-1001,cust_hash_a91f,TEE-BLK-M,1,US-CA
+ORD-1002,cust_hash_b22c,TEE-BLK-M,1,US-NY
+ORD-1003,cust_hash_c77d,TEE-BLK-M,1,US-TX
+ORD-1004,cust_hash_a91f,TEE-BLK-M,1,US-CA
+ORD-1005,cust_hash_d10e,HOODIE-GRY-L,1,US-WA
+ORD-1006,cust_hash_e55a,MUG-WHT,2,US-FL
+ORD-1007,cust_hash_a91f,TEE-BLK-M,1,US-CA
+ORD-1008,cust_hash_f31b,CAP-RED,1,GB-London
+ORD-1009,cust_hash_b22c,HOODIE-GRY-L,1,US-NY
+ORD-1010,cust_hash_991z,MUG-WHT,1,US-OR
+ORD-1011,cust_hash_c77d,TEE-BLK-M,1,US-TX
+ORD-1012,cust_hash_d10e,CAP-RED,1,US-WA

@@ -1,0 +1,10 @@
+order_id,sku,reason,refund_amount,chargeback
+ORD-1001,TEE-BLK-M,Too small did not fit,29.99,false
+ORD-1002,TEE-BLK-M,Runs small and too tight,29.99,false
+ORD-1003,TEE-BLK-M,Size was too big,29.99,false
+ORD-1004,TEE-BLK-M,Too small did not fit,29.99,false
+ORD-1005,HOODIE-GRY-L,Arrived damaged with torn seam,59.99,false
+ORD-1006,MUG-WHT,Changed my mind no longer need it,14.99,false
+ORD-1007,TEE-BLK-M,Too small did not fit,29.99,true
+ORD-1007,TEE-BLK-M,Chargeback filed by customer,29.99,true
+ORD-1009,HOODIE-GRY-L,Poor quality fabric,59.99,false

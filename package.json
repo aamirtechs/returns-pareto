@@ -1,0 +1,17 @@
+{
+  "name": "returns-pareto",
+  "version": "1.0.0",
+  "description": "Turn Shopify or WooCommerce orders and refunds CSV exports into a returns Pareto: which SKUs, reasons and regions actually drive returns, repeat returners, and what to fix first. Offline, no store login needed.",
+  "license": "MIT",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "returns-pareto": "src/cli.js"
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

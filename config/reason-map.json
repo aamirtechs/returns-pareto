@@ -1,0 +1,8 @@
+{
+  "sizing": ["too small", "too big", "too large", "does not fit", "did not fit", "size", "tight", "loose", "runs small", "runs large"],
+  "damaged": ["damaged", "broken", "cracked", "torn", "defective packaging", "arrived damaged", "scratched"],
+  "wrong item": ["wrong item", "wrong product", "incorrect item", "sent the wrong", "not what i ordered", "wrong colour", "wrong color"],
+  "changed mind": ["changed my mind", "changed mind", "no longer need", "ordered by mistake", "do not want", "dont want"],
+  "late delivery": ["late", "arrived late", "took too long", "delayed", "missed the event", "shipping was slow"],
+  "quality": ["poor quality", "quality", "stopped working", "faulty", "defective", "not as described", "cheap material"]
+}
