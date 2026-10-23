@@ -1,4 +1,5 @@
 # returns-pareto
+Live page: https://aamirtechs.github.io/returns-pareto/
 
 Turn Shopify or WooCommerce orders and refunds CSV exports into a returns Pareto: which SKUs, reasons and regions actually drive returns, repeat returners, and what to fix first. Offline, no store login needed.
 
